@@ -52,7 +52,7 @@
 
 <a href="https://www.youtube.com/watch?v=BdWIT8nkqpo">
     <img 
-        src="http://img.shields.io/badge/Video-Call_of_Duty-green"
+        src="http://img.shields.io/badge/Video-DDAY-green"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
