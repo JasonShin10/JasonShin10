@@ -8,7 +8,7 @@
 
 
 
-#### Projects
+#### My Projects
 
 <a href="https://github.com/JasonShin10/PlateUp">
     <img 
