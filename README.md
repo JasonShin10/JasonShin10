@@ -5,7 +5,8 @@
 ### [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjason2680)](https://solved.ac/sjason2680/)
 
 📫: sjason2680@gmail.com
-
+</br>
+📝: https://sjason2680.tistory.com/
 
 
 #### My Projects
